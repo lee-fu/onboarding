@@ -1,0 +1,229 @@
+{
+  "questions": [
+    {
+      "question": "Which floor is the restaurant on?",
+      "answers": []
+    },
+    {
+      "question": "Which company made BitBucket?",
+      "answers": []
+    },
+    {
+      "question": "What is Kanban?",
+      "answers": []
+    },
+    {
+      "question": "Which of the following are the Scrum ceremonies?",
+      "answers": []
+    },
+    {
+      "question": "What percentage of developers use a JetBrains IDE?",
+      "answers": []
+    },
+    {
+      "question": "What is a retrospective in Agile?",
+      "answers": []
+    },
+    {
+      "question": "In Slack, what is the key combination to jump to a channel?",
+      "answers": []
+    },
+    {
+      "question": "Where do our code standards for JavaScript reside?",
+      "answers": []
+    },
+    {
+      "question": "In Prettier, what is the default line width?",
+      "answers": []
+    },
+    {
+      "question": "Which is NOT a meeting room on the ground floor?",
+      "answers": []
+    },
+    {
+      "question": "What does 'PR' stand for in the context of code reviews?",
+      "answers": []
+    },
+    {
+      "question":
+        "What are the first names of the Pricipal Engineers on the Digital Platform?",
+      "answers": []
+    },
+    {
+      "question": "Which of the following is NOT a game in the den?",
+      "answers": []
+    },
+    {
+      "question": "What are the names of the Teams on the Digital Platform?",
+      "answers": []
+    },
+    {
+      "question": "What Products do Team Amiga maintain?",
+      "answers": []
+    },
+    {
+      "question": "What sort of files have the extension '.md'?",
+      "answers": []
+    },
+    {
+      "question": "Which is the closest train station to the office?",
+      "answers": []
+    },
+    {
+      "question":
+        "Who are the Pricipal Engineers on the Digital Product Platform?",
+      "answers": []
+    },
+    {
+      "question": "Which of the following are actual IDEs/Editors?",
+      "answers": []
+    },
+    {
+      "question": "What do 'SSH' stand for?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the terminal command to list processes running on port 3000?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the GIT command to see the changes of the last commit?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the NPM command to remove packages that are NOT in your package.json?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is URL of our VPN?",
+      "answers": []
+    },
+    {
+      "question":
+        "What app do we use to authenticate with our VPN?",
+      "answers": []
+    },
+    {
+      "question": "What 'widget' is at the top left of the intranet home page?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the name of the NPM repo on our internal Artifactory?",
+      "answers": []
+    },
+    {
+      "question": "How many kitchens are on the ground floor ?",
+      "answers": []
+    },
+    {
+      "question": "What does Docker call their packaged images?",
+      "answers": []
+    },
+    {
+      "question":
+        "What Open Source project is our 'FUL-react-scripts' based on?",
+      "answers": []
+    },
+    {
+      "question":
+        "How do we, as developers, stop siloes of knowledge around a feature in an app?",
+      "answers": []
+    },
+    {
+      "question":
+        "What brand of coffee does the Coffee Pod in the atrium serve?",
+      "answers": []
+    },
+    {
+      "question": "Which answer below is NOT a type of software test we use?",
+      "answers": []
+    },
+    {
+      "question": "50% of test engineers like...?",
+      "answers": []
+    },
+    {
+      "question": "Which answer below is NOT a type of software test we use?",
+      "answers": []
+    },
+    {
+      "question": "50% percent of UX designers have...?",
+      "answers": []
+    },
+    {
+      "question": "Which service do we use for our email?",
+      "answers": []
+    },
+    {
+      "question": "What is the name of our internal WIFI network?",
+      "answers": []
+    },
+    {
+      "question": "What is the first entry on the timeline in the atrium?",
+      "answers": []
+    },
+    {
+      "question": "How many toilets are on the ground floor?",
+      "answers": []
+    },
+    {
+      "question": "What is the name of our internal time-tracking tool?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the name of the internal tool we use to request holidays?",
+      "answers": []
+    },
+    {
+      "question": "Why do we use analytics in our Lean agile process?",
+      "answers": []
+    },
+    {
+      "question": "Which floor is the den on?",
+      "answers": []
+    },
+    {
+      "question":
+        "Which of the answers below is NOT one of our engineering environments?",
+      "answers": []
+    },
+    {
+      "question": "Which department looks after our engineering environments?",
+      "answers": []
+    },
+    {
+      "question": "What software is used to configure our environments?",
+      "answers": []
+    },
+    {
+      "question":
+        "Which department supports us with tooling around our CI process?",
+      "answers": []
+    },
+    {
+      "question":
+        "What tool do we use the view the logs generated from our apps?",
+      "answers": []
+    },
+    {
+      "question":
+        "What is the name of the system we use as a gateway to our digital service layer?",
+      "answers": []
+    },
+    {
+      "question": "What is the name of the software that runs our CI process?",
+      "answers": []
+    },
+    {
+      "question":
+        "What do we use to deploy our apps to the production environment?",
+      "answers": []
+    }
+  ]
+}
